@@ -1,0 +1,9 @@
+{
+    "name": "Purple Matter",
+    "description": "Cool Dark Theme.",
+    "version": "1.0.0",
+    "author": "rapldez#4254",
+    "theme": "PurpleDark.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
